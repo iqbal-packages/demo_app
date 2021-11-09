@@ -3,6 +3,10 @@
 ```sh
     yarn add iqbal-calculation
 ```
+# or
+```sh
+    npm i iqbal-calculation
+```
 # How To Use
 ```js
     const calculation = require('iqbal-calculation')
