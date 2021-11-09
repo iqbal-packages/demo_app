@@ -1,6 +1,6 @@
 {
   "name": "calculation",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "text package for calculation",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "calculation"
   ],
   "author": "iqbal",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/iqbal-packages/demo_app/issues"
   },
